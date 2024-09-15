@@ -1,0 +1,85 @@
+h1{
+    text-align: center;
+    border:3px solid red ;
+    border-radius: 20px;
+    background-color: rgba(251, 223, 248, 0.974);
+}
+
+
+
+i{
+    color: rgba(167, 5, 5, 0.997);
+}
+
+
+
+
+
+.bg-yellow{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+
+
+
+img{
+    width: 500px;
+}
+
+
+.green{
+    color: green;
+}
+
+.text{
+    width: 90%;
+    height: 50px;
+}
+
+
+
+.btn{
+    background-color: rgb(0, 183, 255);
+    width: 300px;
+    height: 30px;
+    color: white;
+    border: none;
+}
+
+
+
+.animal{
+    background-color: green;
+    color: white;
+    width: 300px;   
+    height: 30px;
+}
+
+
+
+.Fakt{
+    background-color: blue;
+    color: white;
+    width: 900px;   
+    height: 30px;
+}
+
+
+.red{
+    background-color: red;
+    color: white;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
+
+
+
+.black{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
